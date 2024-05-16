@@ -1,0 +1,32 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+.font-flower{
+  font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+text-align: left;
+color: #E92C2C
+
+}
+
+.calendar{
+ font-family: Inter;
+font-size: 12.88px;
+font-weight: 600;
+line-height: 15.59px;
+text-align: left;
+
+}
+
+.assign{
+  font-family: Inter;
+font-size: 14px;
+line-height: 16.94px;
+letter-spacing: -0.02em;
+text-align: left;
+color: #5A5A5A
+;
+
+}
